@@ -2,11 +2,11 @@
 
 A template for a discord bot using discordjs.
 
-## Setup
-
 # Dependencies
 - [Node.js](https://nodejs.org/en/) (v12.0.0 or newer)
 - [Git](https://git-scm.com/downloads)
+
+# Setup
 
 1. Clone the repository
 ```
