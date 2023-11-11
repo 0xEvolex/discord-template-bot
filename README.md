@@ -6,6 +6,12 @@ A template for a discord bot using discordjs.
 - [Node.js](https://nodejs.org/en/) (v12.0.0 or newer)
 - [Git](https://git-scm.com/downloads)
 
+# Assumptions
+- Using Node.js v18.13
+- Using Discord.js v14.13
+
+Might break at some point with newer/older versions.
+
 # Setup
 
 1. Clone the repository
