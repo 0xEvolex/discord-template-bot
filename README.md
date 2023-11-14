@@ -12,7 +12,7 @@ A template for a discord bot using discordjs.
 
 Might break at some point with newer/older versions.
 
-# Setup
+# Setup from Remote
 
 1. Clone the repository
 ```
@@ -33,5 +33,11 @@ If you don't know how to get a discord bot token, follow [this guide](https://di
 
 6. Run `node .` from the root directory to start the bot
 
+# Setup from Local
+
+1. Run `git init` in your desired directory
+2. Create the repository on GitHub
+3. Run `git remote add origin git@xyz.git` to add the remote repository
+4. Run `git push -u origin main` to push the local repository to the remote repository
 
 
